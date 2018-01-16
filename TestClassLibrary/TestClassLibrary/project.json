@@ -1,0 +1,15 @@
+﻿{
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "microsoft.netcore.app": {
+          "type": "default",
+          "version": "2.0.0"
+        },
+        "System.Threading.Tasks": "4.3.0",
+        "system.runtime": "4.3.0",
+        "Dapper": "1.50.4"
+      }
+    }
+  }
+}

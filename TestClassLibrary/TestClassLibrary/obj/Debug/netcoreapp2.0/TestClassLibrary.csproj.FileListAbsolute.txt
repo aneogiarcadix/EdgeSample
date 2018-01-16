@@ -1,0 +1,26 @@
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.deps.json
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.dll
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.pdb
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.csproj.CoreCompileInputs.cache
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.AssemblyInfoInputs.cache
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.AssemblyInfo.cs
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.dll
+c:\users\aneogi\documents\visual studio 2017\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.pdb
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.deps.json
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.dll
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.pdb
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.AssemblyInfoInputs.cache
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.AssemblyInfo.cs
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.dll
+D:\Projects\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.pdb
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.deps.json
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.dll
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\bin\Debug\netcoreapp2.0\TestClassLibrary.pdb
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.csproj.CoreCompileInputs.cache
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.AssemblyInfoInputs.cache
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.AssemblyInfo.cs
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.dll
+G:\EdgeSample\TestClassLibrary\TestClassLibrary\obj\Debug\netcoreapp2.0\TestClassLibrary.pdb
